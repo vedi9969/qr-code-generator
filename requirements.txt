@@ -1,0 +1,7 @@
+from tkinter import *
+import tkinter.messagebox as msg
+from matplotlib import image
+import pyqrcode
+import png
+from pyqrcode import QRCode
+import tkinter.ttk as ttk
